@@ -1,0 +1,53 @@
+template: "online-cv"
+skin: "blue"
+
+basic_info:
+
+
+    first_name: Chiara
+    last_name: Rotondo
+    
+    
+    motto: Per chi viaggia in direzione ostinata e contraria, col suo marchio speciale di speciale disperazione
+    
+    
+   
+    
+       
+    email: chiara.r.3@live.it
+    # phone: 954 297 3940 
+    # website: asd.com 
+    linkedin: https://www.linkedin.com/in/chiara-rotondo-a9a895120/ 
+    
+    
+    github: ChiaraR3
+
+    
+     
+    # stack-overflow: # Number/Username, e.g. 123456/alandoe
+
+    
+    languages:
+      - idiom: Italiano
+        level: Nativo
+
+      - idiom: Español
+        level: Bilingüe 
+
+      - idiom: Inglés
+        level: B2 
+
+      - idiom: Francés
+        level: B2
+
+      - idiom: Coreano
+        level: A2
+  
+
+    
+    interests:
+      - item: Videojuegos
+
+      - item: Conciertos 
+
+      - item: Viajes
